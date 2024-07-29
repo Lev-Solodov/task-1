@@ -30,19 +30,19 @@ public class Main {
  }
 
  private static int sum(int a, int b) {
- return a + b;
+   return a + b;
  }
 
  private static int difference(int a, int b) {
- return a - b;
+   return a - b;
  }
 
  private static int product(int a, int b) {
- return a * b;
+   return a * b;
  }
 
  private static double quotient(int a, int b) {
- return (double) a / b;
+   return (double) a / b;
  }
 }
 //Эта программа принимает на вход два целых числа a и b, сравнивает их и выводит результат сравнения в консоль. Затем она выполняет над этими числами операции сложения, вычитания, умножения и деления, также выводя результаты в консоль.
